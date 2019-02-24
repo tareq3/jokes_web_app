@@ -1,4 +1,4 @@
-package com.mti.jokes.services;
+package com.mti.services;
 
 public interface JokeService {
     String getJokes();

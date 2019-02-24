@@ -1,6 +1,6 @@
 package com.mti.jokes.controller;
 
-import com.mti.jokes.services.JokeService;
+import com.mti.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
